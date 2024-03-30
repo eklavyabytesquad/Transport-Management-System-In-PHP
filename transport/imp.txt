@@ -1,0 +1,64 @@
+NAVBAR
+
+- Pin-code Inquiry
+- Locations
+- Track Your Goods
+- Customer Portal - LOGIN TO - Customer , other transporter ,  ss employee
+- Contact
+- Services - Download invoice ,  track order ,branch locator , customer care 
+
+PINCODE ENQUIRY
+
+- Input box for pin-code
+- Show button
+- Details showcase - service availability status, city name, state, contact.
+
+LOCATIONS
+
+- Input box for location
+- Show button
+- List locations after the "Show" button.
+- Include a "Download" button.
+- Add a "Send to Mail" feature.
+
+TRACK YOUR GOODS
+
+- Log in (if not already logged in)
+- Enter your bill number or e-way bill number.
+- Click on the 'show' button
+- The status of the goods will be displayed.
+
+CUSTOMER LOGIN /
+
+REGISTER -
+
+- Enter your name
+- Enter your company name
+- Enter GST number / PAN number
+- Enter your address
+- Enter your phone number
+- Enter your email (optional)
+- Choose a username
+- Choose a password
+- Click on the register button
+
+LOGIN -
+
+- Enter your username
+- Enter your password
+- Click on the login button
+
+CONTACT 
+
+- Number
+- Email
+- Email subscription input
+- Map of main branch
+
+EMPLOYEE - ADMIN
+
+- Can add a new location
+- Can view details of registered users, excluding username and password
+- create bill
+- create manual bill
+- challan
