@@ -6,7 +6,7 @@ require_once "../login/connection.php";
 // Initialize variables
 $locationName = $pincode = "";
 $details = [];
-
+//ksj;ogjas;okgsaoi
 // Check if the form is submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Get the input values
